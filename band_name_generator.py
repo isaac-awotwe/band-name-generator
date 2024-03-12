@@ -22,7 +22,7 @@ if st.session_state.stage >= 1:
 if st.session_state.stage >=2:
     st.write(f'Hello {name.capitalize()}!')
     city = st.text_input(
-        "Which city did you grew up in?",
+        "Which city did you grow up in?",
         on_change = set_state, args=[3]
         )
     if city is None:
