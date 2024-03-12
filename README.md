@@ -15,4 +15,6 @@ The app uses Python skills like:
 - debuggiing, etc.
 - streamlit
 
-Click on the link below to use the streamlit app.
+Click on the link below to use the streamlit app:
+
+https://band-name-generator-xauwhbxfcckdy4h3q6w8ne.streamlit.app/
